@@ -1,0 +1,20 @@
+{ 
+   "uuid":"ee8cc544-b2fc-46fd-af31-27d763eaf98b",
+   "username":BAKAWAKAA,
+   "cosmetics":{ 
+      "lyrical2":{ 
+         "name":"lyrical2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lyrical.png"
+},
+      "bone":{ 
+         "name":"bonep",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/bone.png"
+      }
+   }
+}
