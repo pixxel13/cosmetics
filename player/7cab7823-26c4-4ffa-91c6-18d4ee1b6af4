@@ -1,5 +1,7 @@
 {"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"420":
-{"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"2011":
+{"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"420private":
+{"name":"420private","type":"cape","scale":0.16,"active":false,"resourceLocation":"420private"},"42020":
+{"name":"42020","type":"cape","scale":0.16,"active":false,"resourceLocation":"42020"},"2011":
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
@@ -258,7 +260,8 @@
 {"name":"pinkbutterfly","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"pinkbutterfly"},"rainbowbutterfly":
 {"name":"rainbowbutterfly","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"rainbowbutterfly"},"white":
 {"name":"white","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"white"},"gold":
-{"name":"gold","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"gold"},"purple":
+{"name":"gold","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"gold"},"weedwings":
+{"name":"weedwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"weedwings"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purple"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"turquoise"},"ice":
 {"name":"ice","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"ice"},"bone":
