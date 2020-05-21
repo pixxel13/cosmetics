@@ -2,6 +2,7 @@
 {"name":"youtube_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_1"},"youtube_2":
 {"name":"youtube_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":true,"resourceLocation":"usa"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"black":
+{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"2015":
+{"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"black":
 {"name":"black","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"black"},"gold":
 {"name":"gold","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"gold"}}}
