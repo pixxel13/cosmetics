@@ -7,5 +7,5 @@
 {"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"2012":
 {"name":"2012","type":"cape","scale":0.16,"active":false,"resourceLocation":"2012"},"black":
-{"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"}"yellow":
+{"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"},"yellow":
 {"name":"yellow","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"yellow"}}}
