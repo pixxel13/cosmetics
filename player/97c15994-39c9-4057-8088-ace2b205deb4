@@ -5,7 +5,7 @@
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"animalfox":
+{"name":"2016","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016"},"animalfox":
 {"name":"animalfox","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalfox"},"animalkitten":
 {"name":"animalkitten","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkitten"},"animalkoala":
 {"name":"animalkoala","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkoala"},"animallion":
@@ -277,8 +277,8 @@
 {"name":"youtubeheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtubeheart"},"zonixblack":
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
-{"name":"red","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"red"},"black":
-{"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"},"blue":
+{"name":"red","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"red"},"black":
+{"name":"black","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"darkblue"},"yellow":
 {"name":"yellow","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"yellow"},"green":
