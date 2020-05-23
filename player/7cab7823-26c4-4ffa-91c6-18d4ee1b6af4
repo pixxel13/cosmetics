@@ -256,11 +256,11 @@
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"valentinehearts2":
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"vapeblitzkrieg":
 {"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":false,"resourceLocation":"vapeblitzkrieg"},"venezuela":
-{"name":"venezuela","type":"cape","scale":0.16,"active":true,"resourceLocation":"venezuela"},"viperblack":
+{"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"viperblack":
 {"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"viperblue":
 {"name":"viperblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblue"},"viperorange":
 {"name":"viperorange","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperorange"},"viperpink":
-{"name":"viperpink","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperpink"},"viperred":
+{"name":"viperpink","type":"cape","scale":0.16,"active":true,"resourceLocation":"viperpink"},"viperred":
 {"name":"viperred","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperred"},"viperwhite":
 {"name":"viperwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperwhite"},"voltage":
 {"name":"voltage","type":"cape","scale":0.16,"active":false,"resourceLocation":"voltage"},"war_cape":
@@ -277,7 +277,7 @@
 {"name":"youtubeheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtubeheart"},"zonixblack":
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
-{"name":"red","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"red"},"black":
+{"name":"red","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"red"},"black":
 {"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"darkblue"},"yellow":
@@ -285,7 +285,7 @@
 {"name":"green","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"green"},"indigo":
 {"name":"indigo","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"indigo"},"orange":
 {"name":"orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"orange"},"pink":
-{"name":"pink","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"pink"},"black_blue":
+{"name":"pink","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"pink"},"black_blue":
 {"name":"black_blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_blue"},"black_orange":
 {"name":"black_orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_orange"},"normal":
 {"name":"normal","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"normal"},"butterfly_1":
