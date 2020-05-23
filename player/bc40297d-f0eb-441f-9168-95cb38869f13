@@ -1,3 +1,4 @@
 {"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"lunaraqua":
-{"name":"lunaraqua","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunaraqua"},"turquoise":
+{"name":"lunaraqua","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunaraqua"},"faze_2":
+{"name":"faze_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"faze_2"},"turquoise":
 {"name":"turquoise","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"turquoise"}}}
